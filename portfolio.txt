@@ -1,0 +1,6 @@
+Stock Portfolio
+AAPL - Quantity: 2, Value: 360
+GOOG - Quantity: 4, Value: 10800
+MSFT - Quantity: 3, Value: 900
+
+Total Investment: 12060
